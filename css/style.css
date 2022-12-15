@@ -1,10 +1,9 @@
 /* -------------------------------------------
 
-Name: 		Arter
+Name: 		Frankie Graphics
 Version:  1.0
-Author:		Nazar Miller (millerDigitalDesign)
-Portfolio:  https://themeforest.net/user/millerdigitaldesign/portfolio?ref=MillerDigitalDesign
-
+Author:		Frankie254 (millerDigitalDesign)
+Portfolio:  https://.frankiegraphics.site
 p.s. I am available for Freelance hire (UI design, web development). mail: miller.themes@gmail.com
 
 ------------------------------------------- */
@@ -482,6 +481,11 @@ space
   margin-bottom: 25px;
 }
 
+@media (max-width: 1920px) {
+  .p-lg-45-0 {
+    padding-top: 45px;
+    padding-bottom: 0;
+  }
 @media (max-width: 1400px) {
   .p-lg-30-0 {
     padding-top: 30px;
@@ -2520,7 +2524,7 @@ portfolio
 content (after 1600px)
 
 ------------------------------ */
-@media (max-width: 1600px) {
+@media (max-width: 1800px) {
   .art-banner .art-banner-overlay .art-banner-title h1 {
     color: #fafafc;
     font-size: 42px;
